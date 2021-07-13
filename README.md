@@ -1,5 +1,5 @@
 # Install
-'''
+```
 pkg instal ffmpg
 git clone https://github.com/sesukakalian/iglive
 cd iglive
@@ -8,4 +8,4 @@ nano live.php
 edit username sama passwordmu
 tambahkan link video ke 'link video' save
 php live.php
-'''
+```
